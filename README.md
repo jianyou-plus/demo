@@ -1,4 +1,5 @@
 # demo
 demo repo
-sumb merge
+sumb merge 
+stash test
 go ahead 
